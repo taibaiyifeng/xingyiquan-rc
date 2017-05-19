@@ -1,9 +1,8 @@
 Xingyiquan is Simple and basic lkm r00tk1t for linux kernel 2.6.x and 3.x
 (c) Copyright by RingLayer All Rights Reserved 
-Developed by Sw0rdm4n (@sw0rdm4n)
+Developed by Sw0rdm4n (@sw0rdm4n) a.k.a Ringlayer
 Official Website : 
 - www.ringlayer.net
-- www.cr0security.com
 
 DISCLAIMER
 
@@ -71,22 +70,4 @@ make sure you prepare a netcat listener on port 7777.
 Another common functions : hide files/dirs, hide connections, hide module, hook kill process, hook open, hook open directory.
 
 
-
-
-THANKS
-
-Thanks to all people at:
-
-http://www.cnhonkerarmy.com/forum.php
-http://www.zoyzo.cn
-http://www.bcwhy.com/
-http://bbs.hack99.cn/forum.php
-http://blog.yufeng.info/
-http://www.kernelchina.org
-http://www.cloud-sec.org
-http://lengmo.net/
-http://www.lenky.info/
-https://www.freebsdchina.org/forum/
-http://www.indonesianbacktrack.or.id
-http://www.security-hooligan.com
 
